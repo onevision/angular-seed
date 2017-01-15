@@ -1,8 +1,8 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
+  "name": "angular-seed-bootstrap",
+  "description": "A starter project for AngularJS with Bootstrap",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "homepage": "https://github.com/angular/angular-seed-bootstrap",
   "license": "MIT",
   "private": true,
   "dependencies": {
@@ -10,6 +10,7 @@
     "angular-route": "~1.5.0",
     "angular-loader": "~1.5.0",
     "angular-mocks": "~1.5.0",
-    "html5-boilerplate": "^5.3.0"
+    "bootstrap": "3.x.x",
+    "ie10-viewport-bug-workaround": "1.x.x"
   }
 }
